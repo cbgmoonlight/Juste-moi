@@ -1,0 +1,51 @@
+
+body {
+	color: white;
+	text-align: center;
+	font-family: satisfy;
+	background: #79D2E6;
+}
+
+h1	{
+	color: white;
+	font-size: 40px;
+	text-align: center;
+}
+h2	{
+	color: #FFDB58;
+	font-size: 28px;
+	background: transparent;
+	text-align: center;
+} 
+h3, h4	{
+	color: white
+	font-size: 24px;
+	background: transparent;
+	text-align: center;
+}
+p	{
+	color: white;
+	font-size: 20px;
+	text-align: center;
+
+}
+
+.img-carree	{
+	object-fit: cover;
+	text-align: center;
+}
+
+
+a {
+	color: #FFDB58;
+	font-size: 20px;
+}
+
+video {
+	object-fit: cover; 
+	text-align: center;
+}
+
+.image-rectangulaire {
+
+}
